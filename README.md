@@ -3,4 +3,4 @@ Bio e shkurter
 18 vjeqar
 Kumanovë,Maqedoni
 Rrjetet sociale 
-vsco.co/almiirii
+https://vsco.co/almiirii
